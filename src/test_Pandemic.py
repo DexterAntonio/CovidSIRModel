@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-from src.pandemic import Pandemic
+from pandemic import Pandemic
 
 def test_Pandemic():
     pandemic = Pandemic()
